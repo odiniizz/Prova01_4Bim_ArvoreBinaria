@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1698636115 source:/home/juliodiniz/Downloads/Prova01_4Bim_ArvoreBinaria/main.cpp
+	"Arvore.h"
+
+1698635579 /home/juliodiniz/Downloads/Prova01_4Bim_ArvoreBinaria/Arvore.h
+	<iostream>
+
+1698635730 source:/home/juliodiniz/Downloads/Prova01_4Bim_ArvoreBinaria/Arvore.cpp
+	"Arvore.h"
+
